@@ -2,9 +2,11 @@
 
 Submitted by: Anthony Albertyn on 14 November 2020
 
+For a quick overview of the outcome, see screenshots of the solution in solution-screenshots folder
+
 ## The brief
 
-- Create a simple React app based on the coding challenge mockup (see screenshots folder)
+- Create a simple React app based on the coding challenge mockup (see coding-test-mockup folder)
 - Don't over-engineer the app
 - Solution does not need to be pixel-perfect
 - The json data file supplied should be treated as if it was hard-coded into the app, so no API fetch required
